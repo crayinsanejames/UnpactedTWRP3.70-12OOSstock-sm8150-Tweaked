@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=OnePlus
+ro.product.bootimage.device=guacamole
+ro.product.bootimage.manufacturer=OnePlus
+ro.product.bootimage.model=GM1917
+ro.product.bootimage.name=twrp_guacamole
+ro.bootimage.build.date=Sat Oct  8 01:07:18 UTC 2022
+ro.bootimage.build.date.utc=1665191238
+ro.bootimage.build.fingerprint=OnePlus/OnePlus7Pro/OnePlus7Pro:11/RKQ1.201022.002/2202112154:user/release-keys
+ro.bootimage.build.id=SP2A.220405.004
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=eng
+ro.bootimage.build.version.incremental=2
+ro.bootimage.build.version.release=99.87.36
+ro.bootimage.build.version.release_or_codename=99.87.36
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=adb,usb
+# end of file
